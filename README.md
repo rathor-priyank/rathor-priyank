@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @rathor-priyank
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Priyank Rathore
 
-<!---
-rathor-priyank/rathor-priyank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm currently pursuing a dual degree in Computer Science and Engineering from NIT Hamirpur.
+📚 I'm a 4th-year student.
+💻 I'm fluent in C++ and intermediate in web development.
+🌐 I have learned technologies like SQL, React, HTML5, CSS3, and JavaScript.
+🤖 I'm currently interested in learning various Machine Learning techniques and also interested in Computer Vision.
+📫 You can reach me at: priyankrathor2809@gmail.com
