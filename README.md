@@ -1,8 +1,1 @@
-👋 Hi, I’m Priyank Rathore
-
-🎓 I'm currently pursuing a dual degree in Computer Science and Engineering from NIT Hamirpur.
-📚 I'm a 4th-year student.
-💻 I'm fluent in C++ and intermediate in web development.
-🌐 I have learned technologies like SQL, React, HTML5, CSS3, and JavaScript.
-🤖 I'm currently interested in learning various Machine Learning techniques and also interested in Computer Vision.
-📫 You can reach me at: priyankrathor2809@gmail.com
+AI/ML Engineer and Software Engineer at MediaTek with experience building applied AI systems from experimentation to deployment. Contributed to AI-assisted network log analysis and fault-diagnosis workflows for production Access Point systems, alongside research in LLMs, legal NLP, model compression, and multimodal video forensics. Built legal NLP systems over 7,000+ summaries, fine-tuned six SLMs using LoRA/PEFT, and accelerated inference 2–3x on NVIDIA Jetson. Strong in turning ambiguous problems into measurable AI pipelines using Python, PyTorch, Transformers, RAG, computer vision, and edge deployment.
